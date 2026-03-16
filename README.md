@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Edwin Marte Torres
 
 <div align="center">
-  <img src="src/edwin-marte-glow-photo.png" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;" />
+  <img src="src/edwin-marte-glow-photo.png" alt="Profile Photo" width="300" height="300" style="border-radius: 50%;" />
 </div>
 
 ## About Me
