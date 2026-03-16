@@ -6,7 +6,11 @@
 
 ## About Me
 
-[Your bio and professional summary here. What do you do? What are you passionate about?]
+Full-stack developer with a passion for creative problem-solving and clean code. Turning "it's not working" into "it's working" one commit at a time. 🚀
+
+Detail-oriented Full-Stack Developer focused on building scalable, user-centric web applications. Proven track record in streamlining development workflows and delivering high-quality, maintainable codebases. Expert in bridging the gap between complex technical challenges and elegant, functional design.
+
+Would you like me to tailor this to a specific tech stack like React, Python, or Node.js?
 
 - 📍 **Location:** Dominican Republic
 - 💼 **Current Role:** Computer Science Engineer
